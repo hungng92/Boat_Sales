@@ -13,5 +13,7 @@ of increasing the number of readers by 75% this year.
 They would like you to take a look at the recent data and help them learn more about the characteristics of the most viewed boat listings in the last 7 days.
 #### Is it the most expensive boats that get the most views? Are there common features among the most viewed boats?
 
-### Tools: 
+### Tools and Answer:
 I used Tableau Public to analyze and make dashboards, reports to present the insights of business question.
+Link to my project on Tableau Public: 
+### https://public.tableau.com/app/profile/nguyen.gia.hung/viz/Boat_data/Reports
