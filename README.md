@@ -1,4 +1,4 @@
-# Boat_Sales
+# Boat_Sales_Tableau
 ## Case Study Project: Boat Sales
 
 ### Question:
